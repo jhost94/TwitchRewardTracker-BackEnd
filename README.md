@@ -2,10 +2,10 @@
 This is a multi repo project, with each one serving single responsibility as a service.
 
 ### REPOS ###
-[https://github.com/jhost94/TwitchRewardTracker-BackEnd](Back End)
-[](Front End - Twitch middleman)
-[](Front End - User management/dashboard)
-[](Front End - Application consumer/OBS browser source)
+[Back-End] (https://github.com/jhost94/TwitchRewardTracker-BackEnd)
+[Front End - Twitch middleman]()
+[Front End - User management/dashboard]()
+[Front End - Application consumer/OBS browser source]()
 
 ### Back End ###
 The brains of the app.
